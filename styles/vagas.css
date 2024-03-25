@@ -1,0 +1,50 @@
+.vagas {
+    padding-top: 12rem;
+}
+
+.vagas__quadro {
+    text-align: center;
+}
+
+.quadro__vagas-abertas {
+    color: var(--vermelho);
+    font-size: 0.875rem;
+}
+
+.quadro__titulo {
+    color: var(--cinza-profundo);
+    font-size: 2.25rem;
+    font-weight: 600;
+    padding: 1rem 0;
+}
+
+.quadro__texto {
+    font-size: 1.25rem;
+}
+
+.quadro__imagem {
+    width: 76rem;
+    padding: 4rem 0;
+}
+
+.vagas__lista {
+    padding: 0 21rem 7.75rem 21rem;
+}
+
+.lista__area {
+    font-size: 1.25rem; /*Não está computando 20px*/
+    color: var(--cinza-profundo);
+    margin-bottom: 3.5rem;
+}
+
+.lista__item {
+    font-size: 1.125rem;
+    color: var(--cinza-profundo);
+    padding: 0 1.5rem 2rem 1.5rem;
+}
+
+.lista-caixa {
+    padding: 0 1.5rem 4.75rem 1.5rem;
+    display: flex;
+    gap: 1.5rem;
+}

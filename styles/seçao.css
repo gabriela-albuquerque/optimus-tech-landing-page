@@ -1,0 +1,46 @@
+.sobre__nos {
+    width: 55%;
+    text-align: center;
+    margin: auto;
+    padding: 6rem 0;
+}
+
+.seçao__subtitulo {
+    color: var(--vermelho);
+    font-weight: 600;
+}
+
+.seçao__titulo {
+    font-size: 3rem;
+    font-weight: 600;
+    color: var(--cinza-profundo);
+    padding: 1.5rem 0;
+}
+
+.seçao__texto {
+    font-size: 1.25rem;
+    width: 50rem;
+}
+
+.resultados__lista {
+    display: flex;
+    justify-content: space-around;
+    width: 78rem;
+    margin: auto;
+}
+
+.lista-item-texto-generico {
+    color: var(--vermelho);
+    font-size: 3.75rem;
+    font-weight: 600;
+}
+
+.lista-item-titulo {
+    font-size: 1.125rem;
+    color: var(--cinza-profundo);
+    padding: 0.75rem 0;
+}
+
+.lista-item-texto {
+    width: 17.5rem;
+}
