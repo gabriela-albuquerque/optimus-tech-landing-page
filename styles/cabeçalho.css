@@ -27,7 +27,7 @@
 
 .container__botao {
     background-color: var(--vermelho);
-    color: var(--cor-de-fundo);
+    color: var(--cor-de-fundo-branca);
     margin-left: 1rem;
     padding: 0.625rem 1.125rem;
     border-radius: 0.5rem;
