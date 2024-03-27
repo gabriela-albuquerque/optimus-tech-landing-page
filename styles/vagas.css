@@ -9,6 +9,10 @@
 .quadro__vagas-abertas {
     color: var(--vermelho);
     font-size: 0.875rem;
+    background-color: var(--cor-de-fundo-rosada);
+    width: 7.8rem;
+    border-radius: 1rem;
+    margin: 0 auto;
 }
 
 .quadro__titulo {
